@@ -1,0 +1,5 @@
+C:\Documents and Settings\kuba\my documents\visual studio 2010\Projects\Brainfuck\Brainfuck\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\kuba\my documents\visual studio 2010\Projects\Brainfuck\Brainfuck\bin\Release\Brainfuck.exe
+C:\Documents and Settings\kuba\my documents\visual studio 2010\Projects\Brainfuck\Brainfuck\bin\Release\Brainfuck.pdb
+C:\Documents and Settings\kuba\my documents\visual studio 2010\Projects\Brainfuck\Brainfuck\obj\x86\Release\Brainfuck.exe
+C:\Documents and Settings\kuba\my documents\visual studio 2010\Projects\Brainfuck\Brainfuck\obj\x86\Release\Brainfuck.pdb
